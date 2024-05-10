@@ -40,8 +40,8 @@
 
         <dependency>
             <groupId>tech.ytsaurus</groupId>
-            <artifactId>ytsaurus-client</artifactId>
-            <version>1.2.0</version>
+            <artifactId>spark-yt-yt-wrapper_${scala.binary.version}</artifactId>
+            <version>1.78.0</version>
             <exclusions>
                 <exclusion>
                     <groupId>io.netty</groupId>
